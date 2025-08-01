@@ -1,0 +1,6 @@
+= 1.0.1 =
+* Translation loading early fix.
+* Getting started updated.
+
+= 1.0.0 =
+* Initial release.
